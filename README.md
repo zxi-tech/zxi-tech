@@ -18,15 +18,17 @@
 
 ---
 
-## 🎯 Learning Goals
+## 💡 Interests
 
-- 🌱 Mempelajari algoritma Machine Learning secara bertahap untuk membangun pemahaman yang kuat.
-- 📊 Belajar mengolah dan menganalisis data agar dapat menemukan pola serta menghasilkan insight yang bermanfaat  
-- 🔌 Pengembangan sistem berbasis IoT melalui integrasi perangkat keras dan perangkat lunak
-- 🧠 Mencoba membangun model AI kecil dari kasus nyata
-- ⚡ Mengembangkan kemampuan melalui project sederhana dan konsisten  
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & AI  
+- 🔌 Internet of Things (IoT)
 
----
+<br>
+<p align="center">
+  <i>"Translating complex data and smart systems into meaningful real-world solutions."</i>
+</p>
+<br>
 
 ## ⚡ Tech & Tools I Use
 
@@ -53,7 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zxi-tech&show_icons=true&theme=radical&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=zxi-tech&theme=radical" height="195" alt="Contribution Streak" />
 </p>
----
 
 ## ⚡ Philosophy
 
