@@ -62,8 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=zxi-tech&theme=radical" height="195" alt="Contribution Streak" />
 </p>
 
-## ⚡ Philosophy
-
 > “Every expert was once a beginner — I’m building my path step by step.”
 
 ---
