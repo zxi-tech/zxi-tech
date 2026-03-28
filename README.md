@@ -58,8 +58,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxi-tech&show_icons=true&theme=radical&custom_title=GitHub%20Stats" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=zxi-tech&theme=radical" height="195" alt="Contribution Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zxi-tech&show_icons=true&theme=radical&custom_title=zxi-tech%20GitHub%20Stats&v=2" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=zxi-tech&theme=radical&v=2" width="48%" />
 </p>
 
 > “Every expert was once a beginner — I’m building my path step by step.”
